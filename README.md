@@ -1,6 +1,6 @@
 ## File Zipper
 
-### [Working of the project](https://www.google.com)
+### [Working of the project](https://miro.com/app/board/uXjVPO3LdQM=/?share_link_id=550443567558)
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/51622948/195495851-1e5ec8d2-9160-4aa5-8c8d-3c8fb2bc8985.png)
 
@@ -30,4 +30,4 @@
 ![Screenshot (29)](https://user-images.githubusercontent.com/51622948/195495988-5f713961-cd0d-4322-849d-e4d56f0789eb.png)
 
 
-https://miro.com/app/board/uXjVPO3LdQM=/?share_link_id=550443567558
+
