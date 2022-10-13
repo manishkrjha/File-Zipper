@@ -1,6 +1,6 @@
 ## File Zipper
 
-### Working of the project
+### [Working of the project](https://www.google.com)
 
 ![Screenshot (26)](https://user-images.githubusercontent.com/51622948/195495851-1e5ec8d2-9160-4aa5-8c8d-3c8fb2bc8985.png)
 
